@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1618766815,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "81477b1b29d601a64bbcdfa2cb9c80ef",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "deathscythehell_sc4.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

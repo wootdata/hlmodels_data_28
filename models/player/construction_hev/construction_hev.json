@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 41,
@@ -80,6 +81,7 @@
 			"type": 8
 		}
 	],
+	"date": 1435165899,
 	"events": [
 		{
 			"event": 2001,
@@ -189,7 +191,11 @@
 	],
 	"id": 1414743113,
 	"md5": "03e2339b63356a06dfe40ee2d9199f4b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Recon.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

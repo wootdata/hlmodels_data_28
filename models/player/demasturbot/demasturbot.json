@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 9,
@@ -54,6 +55,7 @@
 			"type": 8
 		}
 	],
+	"date": 1325328292,
 	"events": [
 		{
 			"event": 2001,
@@ -163,7 +165,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2258a5a5afee9d33b2848c09d135c47a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Demasturbot.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

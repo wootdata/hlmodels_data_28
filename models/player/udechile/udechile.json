@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1700525668,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c9dedc18389a80473629d4fb53e11617",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "c:\\sierra\\half-life\\gearbox\\models\\player\\DM_Recruit\\DM_Recruit.",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

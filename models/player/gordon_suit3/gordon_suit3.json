@@ -53,6 +53,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 37,
@@ -95,6 +96,7 @@
 			"type": 8
 		}
 	],
+	"date": 1647735138,
 	"events": [
 		{
 			"event": 2001,
@@ -204,7 +206,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7057f84478ce48691fa63690d5a89ab5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

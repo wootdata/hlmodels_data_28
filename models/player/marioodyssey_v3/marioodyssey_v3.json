@@ -58,6 +58,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -92,6 +93,7 @@
 			"type": 8
 		}
 	],
+	"date": 1649778707,
 	"events": [
 		{
 			"event": 2001,
@@ -201,7 +203,11 @@
 	],
 	"id": 1414743113,
 	"md5": "dd84c0d6c92152e6b8c4783ae130e868",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Joshua\\Desktop\\MarioOdyssey\\MarioOdyssey.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

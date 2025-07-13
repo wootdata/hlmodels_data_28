@@ -43,6 +43,7 @@
 			"name": "bomb_defuser"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -77,6 +78,7 @@
 			"type": 8
 		}
 	],
+	"date": 1594489180,
 	"events": [
 		{
 			"event": 2001,
@@ -186,7 +188,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e75b545a1893a2ee8a849f6f4fcd725d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\pc\\Desktop\\helmet\\Helmet.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -38,6 +38,7 @@
 			"name": "arms"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -72,6 +73,7 @@
 			"type": 8
 		}
 	],
+	"date": 1662001152,
 	"events": [
 		{
 			"event": 2001,
@@ -181,7 +183,11 @@
 	],
 	"id": 1414743113,
 	"md5": "74ebafbbdd0105bc84495749187c3c83",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "FelipeElTerrible.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

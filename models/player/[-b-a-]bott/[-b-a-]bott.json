@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 959819408,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ea5fe4aead49fb35686a48d0de8af80a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/robo/robo.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

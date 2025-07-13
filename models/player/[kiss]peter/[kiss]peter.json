@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1565128688,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "eda938c49bd24d0d02f41bee71e1a29d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/Scientist/Scientist.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

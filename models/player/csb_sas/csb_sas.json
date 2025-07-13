@@ -43,6 +43,7 @@
 			"name": "bomb_defuser"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -77,6 +78,7 @@
 			"type": 8
 		}
 	],
+	"date": 966601492,
 	"events": [
 		{
 			"event": 2001,
@@ -354,7 +356,11 @@
 	],
 	"id": 1414743113,
 	"md5": "229a618d6b433f389a24873dbd1f306e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "urban/sas.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

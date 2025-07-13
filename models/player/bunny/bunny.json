@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 929669018,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d4dfd13f462800bd59f734111d57b4ae",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/Stamp/Stamp.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -38,6 +38,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -72,6 +73,7 @@
 			"type": 8
 		}
 	],
+	"date": 1607193786,
 	"events": [
 		{
 			"event": 2001,
@@ -181,7 +183,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8b0698d2ae8accdfbe126c6c947c9f60",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hgrunt60.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

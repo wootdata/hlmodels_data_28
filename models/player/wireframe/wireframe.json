@@ -38,6 +38,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -72,6 +73,7 @@
 			"type": 8
 		}
 	],
+	"date": 1641507140,
 	"events": [
 		{
 			"event": 2001,
@@ -181,7 +183,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b1268278685f3b9b462ac475c13f6e23",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "WireFrame.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
