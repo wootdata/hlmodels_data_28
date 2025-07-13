@@ -1,0 +1,12 @@
+Jan 2002
+
+This model was originally Agent Rage. Reskin done by [COMX]Dr.N.Crane.
+The only modification was adding "Niles Crane" face to it.
+However, it doesnt quite look like Niles in game.
+Oh well, I tried.
+
+INSTALLATION:  UNZIP INTO  halflife\valve\models\player\niles2 
+
+Visit www.comxclan.com
+
+

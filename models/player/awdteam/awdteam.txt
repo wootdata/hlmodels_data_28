@@ -1,0 +1,4 @@
+Model: awdteam
+Author: [AWD] pOt HeaD
+Released: 2/27/2001
+Size: 176kb
