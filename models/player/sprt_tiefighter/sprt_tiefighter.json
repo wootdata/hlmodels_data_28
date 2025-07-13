@@ -1,0 +1,52 @@
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "sprt_tiefighter.mdl",
+					"polys": 180,
+					"verts": 92
+				}
+			],
+			"name": "body"
+		}
+	],
+	"colorable": false,
+	"controllers": [],
+	"date": 1382037587,
+	"events": [],
+	"id": 1414743113,
+	"md5": "639301a370e8ac009fa106927a86790c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
+	"name": "C:\\Users\\Logen\\Desktop\\sprt_tiefighter.mdl",
+	"preview": true,
+	"readme": false,
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 69.000000,
+			"frames": 1,
+			"name": "kHED"
+		}
+	],
+	"size": 268128,
+	"skeleton": [
+		{
+			"name": "kHED",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "tie_uv.bmp",
+			"width": 512
+		}
+	],
+	"version": 10
+}
