@@ -180,6 +180,7 @@
 	"md5": "f80601e11ff94bce7d33eca13398ab1c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/Gordon/tick.mdl",
 	"preview": true,
 	"readme": false,

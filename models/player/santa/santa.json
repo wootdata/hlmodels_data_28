@@ -175,6 +175,7 @@
 	"md5": "a7bab22b34fe34fa83b5bf2e77e38593",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/santa/santa.mdl",
 	"preview": true,
 	"readme": false,

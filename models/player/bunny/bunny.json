@@ -175,6 +175,7 @@
 	"md5": "d4dfd13f462800bd59f734111d57b4ae",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Stamp/Stamp.mdl",
 	"preview": true,
 	"readme": false,

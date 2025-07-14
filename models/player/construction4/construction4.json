@@ -175,6 +175,7 @@
 	"md5": "f08c00dc2b4511328d9bb6d862e77d9b",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/construction/construction.mdl",
 	"preview": true,
 	"readme": false,
