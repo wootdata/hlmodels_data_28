@@ -253,7 +253,7 @@
 	"modid": 2,
 	"name": "tfc/models/player/sniper/sniper.mdl",
 	"preview": false,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
