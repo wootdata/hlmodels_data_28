@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lyn
+Source Model Hash : 2af28a806b1a31125147f2147e87a829
+Source Model Date : 1264164619 (2010/01/22)
+
+Ported Model Name : lyn_v1sc
+Ported Model Hash : e02a21ce851d1139a71a38ac71b3dcac
+Ported Model Date : 1752491976 (2025/07/14)

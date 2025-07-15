@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : akeen2
+Source Model Hash : ea61c4282767f52b31a6328c5ccf336c
+Source Model Date : 1296682464 (2011/02/02)
+
+Ported Model Name : akeen2_v1sc
+Ported Model Hash : ab2c17de1a45e16845409f4ef83ce04f
+Ported Model Date : 1752491350 (2025/07/14)

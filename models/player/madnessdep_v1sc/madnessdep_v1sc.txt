@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : madnessdep
+Source Model Hash : 997463fe2db6ea2179332d1dbbe22942
+Source Model Date : 1579696072 (2020/01/22)
+
+Ported Model Name : madnessdep_v1sc
+Ported Model Hash : 113273f1a33bf47ac6739a790a248f0a
+Ported Model Date : 1752491978 (2025/07/14)

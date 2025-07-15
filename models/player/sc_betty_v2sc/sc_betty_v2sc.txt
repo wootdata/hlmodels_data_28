@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sc_betty_v2
+Source Model Hash : 06ecc6684f91c0b72e3ec104f8a443c3
+Source Model Date : 1537860631 (2018/09/25)
+
+Ported Model Name : sc_betty_v2sc
+Ported Model Hash : 986d6df32dd68cba0e321aa56fd9f81a
+Ported Model Date : 1752492251 (2025/07/14)

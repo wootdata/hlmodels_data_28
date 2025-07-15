@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : plushtrap
+Source Model Hash : f2dc163cc78c2f80c48a8428d4ea6de1
+Source Model Date : 1579695604 (2020/01/22)
+
+Ported Model Name : plushtrap_v1sc
+Ported Model Hash : 4868e42fe65c5a2934144b502c48818e
+Ported Model Date : 1752492160 (2025/07/14)

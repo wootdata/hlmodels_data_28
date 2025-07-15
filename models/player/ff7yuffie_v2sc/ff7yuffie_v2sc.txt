@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ff7yuffie_v2
+Source Model Hash : 8819fdcceb82e67df271c5213a0b3593
+Source Model Date : 1583874116 (2020/03/10)
+
+Ported Model Name : ff7yuffie_v2sc
+Ported Model Hash : 03d55631019e8121d50f67815fe688da
+Ported Model Date : 1752491650 (2025/07/14)

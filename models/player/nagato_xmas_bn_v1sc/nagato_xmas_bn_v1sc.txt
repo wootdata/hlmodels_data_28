@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nagato_xmas_blackn
+Source Model Hash : 7eef3b400e83fc50151ab09f010558b7
+Source Model Date : 1639363212 (2021/12/12)
+
+Ported Model Name : nagato_xmas_bn_v1sc
+Ported Model Hash : 02609d3ba437d8486bf83de26534d18f
+Ported Model Date : 1752492061 (2025/07/14)

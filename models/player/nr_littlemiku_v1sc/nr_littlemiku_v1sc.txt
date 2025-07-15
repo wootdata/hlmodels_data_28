@@ -1,0 +1,20 @@
+a (most likely forever) unfinished Miku model
+Has new bones for the skirt/tie/hair + some of the Sven anims edited to have them move
+
+By: Norman
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nr_littleanimemiku
+Source Model Hash : c9a531c7dc1e7ad3aae11ea4323788a5
+Source Model Date : 1459570388 (2016/04/01)
+
+Ported Model Name : nr_littlemiku_v1sc
+Ported Model Hash : daec3d81a81092a168ee5de66aad247c
+Ported Model Date : 1752492102 (2025/07/14)

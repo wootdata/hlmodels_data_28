@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sonicforces_modern_v2
+Source Model Hash : 62f90b7ff6b30daf24ab5dfe4a265147
+Source Model Date : 1679534107 (2023/03/22)
+
+Ported Model Name : sonicf_modern_v2sc
+Ported Model Hash : bf904887573e897b64e2d3da6549c570
+Ported Model Date : 1752492295 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vectorman
+Source Model Hash : f48c24be9039619e1badd48b274600b1
+Source Model Date : 1529084793 (2018/06/15)
+
+Ported Model Name : vectorman_v1sc
+Ported Model Hash : c7797606b0a58f4720853a4cf751f444
+Ported Model Date : 1752492490 (2025/07/14)

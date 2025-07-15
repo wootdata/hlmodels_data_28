@@ -1,0 +1,17 @@
+made_by_winkler
+The Specialists mod
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : klizmak
+Source Model Hash : ec1777cda0f2a49621240a37974ff6d6
+Source Model Date : 1466428612 (2016/06/20)
+
+Ported Model Name : klizmak_v1sc
+Ported Model Hash : 1f28fc1ad880a54731f74e0a846f4cd9
+Ported Model Date : 1752491896 (2025/07/14)

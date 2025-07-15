@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re_umbrella_nemesis_v3
+Source Model Hash : 4045830efcdaec797b766e3dfa5053ae
+Source Model Date : 1523919129 (2018/04/16)
+
+Ported Model Name : re_umb_nemesis_v3sc
+Ported Model Hash : d5eec1dae91b8465b67d67847d4618f3
+Ported Model Date : 1752492214 (2025/07/14)

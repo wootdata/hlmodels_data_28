@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : warioc
+Source Model Hash : 5c2c18f50398e503f15aa98c8422940c
+Source Model Date : 1681842918 (2023/04/18)
+
+Ported Model Name : warioc_v1sc
+Ported Model Hash : a47169472f2f40e2b86ff41ea8c71722
+Ported Model Date : 1752492503 (2025/07/14)

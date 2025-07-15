@@ -1,0 +1,31 @@
+###THIS FILE HAS BEEN LEECHED FROM THE HIT FORUM####
+
+Whaddya Get:
+
+(2) Drop Dead Babes from Action Half-Life..
+*Ladydeath (a.k.a Goth Croft) 
+Lara's demented half sister high on speed 
+and over sexed.
+*Babewire (a.k.a Don't call me bitch)
+A bad ass Blonde with an attitude problem.
+
+Original Author:
+Some dude on the AHL Team I spose ?
+Re-Animated to SC3 by a lazy LaggedRabbit
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ladydeath
+Source Model Hash : 7943240c0e904f8f45220eac71013d5f
+Source Model Date : 1264013554 (2010/01/20)
+
+Ported Model Name : ladydeath_v1sc
+Ported Model Hash : 8b03a134e956cdd3d2fb35b31f55e75f
+Ported Model Date : 1752491936 (2025/07/14)

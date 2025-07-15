@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zzz_zhu_yuan
+Source Model Hash : 516a7f746860010f2beffce8a62e67d8
+Source Model Date : 1723475282 (2024/08/12)
+
+Ported Model Name : zzz_zhu_yuan_v1sc
+Ported Model Hash : 9a4206c330427b064d3606e0a216ad77
+Ported Model Date : 1752492537 (2025/07/14)

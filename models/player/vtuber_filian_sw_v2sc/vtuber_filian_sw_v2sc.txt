@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vtuber_filian_sw_v2
+Source Model Hash : 11afb1d8442f7328496c32e4b9759588
+Source Model Date : 1660797956 (2022/08/17)
+
+Ported Model Name : vtuber_filian_sw_v2sc
+Ported Model Hash : 4f57787dfc3135d4310820f4dd004cfb
+Ported Model Date : 1752492498 (2025/07/14)

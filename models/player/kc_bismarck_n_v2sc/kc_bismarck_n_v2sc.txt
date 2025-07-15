@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kancolle_bismarck_n_v2
+Source Model Hash : 2774b5347d1e36b90642169cc05e5d9e
+Source Model Date : 1581985996 (2020/02/17)
+
+Ported Model Name : kc_bismarck_n_v2sc
+Ported Model Hash : 5786a6695b0efe308935a2995a7477a0
+Ported Model Date : 1752491870 (2025/07/14)

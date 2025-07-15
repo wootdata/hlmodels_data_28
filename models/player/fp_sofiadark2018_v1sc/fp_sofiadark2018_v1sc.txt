@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fp_sofiadark2018
+Source Model Hash : e1cb024cec3b1cfd5db7160748c3fa9d
+Source Model Date : 1498772762 (2017/06/29)
+
+Ported Model Name : fp_sofiadark2018_v1sc
+Ported Model Hash : 7beadea9cd2eb64b823f3dbcfb2e0ec5
+Ported Model Date : 1752491659 (2025/07/14)

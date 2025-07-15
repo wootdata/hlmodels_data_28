@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : psychemon
+Source Model Hash : c6f1af21dc84e85670652337704ba34d
+Source Model Date : 1699554585 (2023/11/09)
+
+Ported Model Name : psychemon_v1sc
+Ported Model Hash : a4cd76a4343c0b10457bdbd1d509b250
+Ported Model Date : 1752492170 (2025/07/14)

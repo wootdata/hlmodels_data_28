@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lucario
+Source Model Hash : 125af5ac0afc7b3aa882a411c5b7e934
+Source Model Date : 1529719944 (2018/06/22)
+
+Ported Model Name : lucario_v1sc
+Ported Model Hash : aad39e71961d23d6102fc76249e52e2b
+Ported Model Date : 1752491971 (2025/07/14)

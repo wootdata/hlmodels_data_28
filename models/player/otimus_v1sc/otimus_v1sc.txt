@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : otimus
+Source Model Hash : 481a1d2213938f0d254a1f442ab7dd36
+Source Model Date : 1264765581 (2010/01/29)
+
+Ported Model Name : otimus_v1sc
+Ported Model Hash : 90b7e91849c7d02333ae9369c9a5a07e
+Ported Model Date : 1752492133 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : metalshadow
+Source Model Hash : aad689a77ecfc0bc02cb8e4f5f5e6ebb
+Source Model Date : 1266243491 (2010/02/15)
+
+Ported Model Name : metalshadow_v1sc
+Ported Model Hash : 39bbcb00f8af19517b47556a41cbfe06
+Ported Model Date : 1752492005 (2025/07/14)

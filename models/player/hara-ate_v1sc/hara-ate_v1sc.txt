@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hara-ate
+Source Model Hash : 111e26802bb11467b14540137d5b976d
+Source Model Date : 1268804431 (2010/03/16)
+
+Ported Model Name : hara-ate_v1sc
+Ported Model Hash : 82e600e80ef97d3e80f795c37cbc2369
+Ported Model Date : 1752491768 (2025/07/14)

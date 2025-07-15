@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kurt_cobain
+Source Model Hash : d773d4aa24ae2b334e35a6d7a8bfe5b4
+Source Model Date : 1637532533 (2021/11/21)
+
+Ported Model Name : kurt_cobain_v1sc
+Ported Model Hash : bddce20cad59092ba31b67be329f5e0b
+Ported Model Date : 1752491912 (2025/07/14)

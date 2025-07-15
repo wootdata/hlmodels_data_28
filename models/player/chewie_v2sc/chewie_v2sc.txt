@@ -1,0 +1,19 @@
+Skinner:CrapSac	
+Skin Name:Chewie
+mstiner@clearnet.net
+This is to be a skin of Chewbacca from Star Wars. Well I think it turned out somewhat ok atleast the head did.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : chewie_v2
+Source Model Hash : 2c050f0a192d7d81843e0a6c0c87446b
+Source Model Date : 1582977144 (2020/02/29)
+
+Ported Model Name : chewie_v2sc
+Ported Model Hash : 7bdaa88e5d146cd662465e82f82f0e00
+Ported Model Date : 1752491468 (2025/07/14)

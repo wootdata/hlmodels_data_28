@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : newborn_st2
+Source Model Hash : ff1bb3914737e4768903fe0fe0fd8edb
+Source Model Date : 1623247651 (2021/06/09)
+
+Ported Model Name : newborn_st2_v1sc
+Ported Model Hash : c2e54e1e4de8f7a7c57c0cff79cc7198
+Ported Model Date : 1752492091 (2025/07/14)

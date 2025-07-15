@@ -1,0 +1,67 @@
+Type: 		Halflife Multiplayer Pluggin Model
+
+Name: 		Chris Redfield
+
+Release Date: 	Feb 19th, 2004
+
+Author:		The Condition Zero Team, (texture by |2usty)  
+
+E-Mail:		mrfranswa@yahoo.com
+
+Homepage: 	No  
+
+Files:		chris, chris.bmp, chris.txt 			
+
+Instructions:	Create a folder  Half-life\svencoop\models\player\chris
+                and just unzip all the file into there.
+
+		This model can be freely distributed as long as this text file is included, unmodified.
+		If you wish to  include it in a compilation, Mod or commerical product, please email me first.
+		If you want to do a skin for this model and are a good skinner ( i.e. better than me ) then email me, 
+                and I'll help you out with smd files and base skins.
+
+
+
+----------------
+chris_readme.txt
+----------------
+S.T.A.R.S.
+Redfield, Chris
+Marksman
+Force: Alpha Team
+Age: 25
+Height: 5ft 11in
+Weight: 177 lbs
+Blood Type: O
+----------
+676 polys
+1x256x256 body skin
+1x128x128 face skin
+Team Colors: Yes
+Author: Daniel Gilfillan aka Da[\]iel aka The_Worst
+E-mail adress:  simba273@home.com
+Use in mod?:  Ask first
+Websites that deserved to be pimped:  
+http://www.3d-editing.com
+http://www.re-te.com
+http://www.joecartoon.com
+http://www.killfrog.com
+http://evilsnowmen.clanpages.com
+
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : chris_v2
+Source Model Hash : 3368cb4b549f30bd6453fe2ae3cd8307
+Source Model Date : 1268287033 (2010/03/10)
+
+Ported Model Name : chris_v2sc
+Ported Model Hash : 41de8546c89fd869002db5d47c730919
+Ported Model Date : 1752491474 (2025/07/14)

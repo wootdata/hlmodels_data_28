@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dm_cannibal
+Source Model Hash : b38eefb41c2329a421641189be809218
+Source Model Date : 1345513068 (2012/08/20)
+
+Ported Model Name : dm_cannibal_v1sc
+Ported Model Hash : 45cfeedea40ec3e05e607f16383c1066
+Ported Model Date : 1752491606 (2025/07/14)

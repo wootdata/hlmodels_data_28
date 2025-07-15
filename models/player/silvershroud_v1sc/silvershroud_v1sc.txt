@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : silvershroud
+Source Model Hash : 6bd79efbf24f5ee831ccbe43137c086d
+Source Model Date : 1513488194 (2017/12/16)
+
+Ported Model Name : silvershroud_v1sc
+Ported Model Hash : e55a290b55324bb5fcf6477f7956ce6d
+Ported Model Date : 1752492276 (2025/07/14)

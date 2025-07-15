@@ -1,0 +1,41 @@
+XenoAisam
+Romka
+Lt C
+Nirrti
+Mosquito
+Gmod4Ever
+Aeon
+peterboi
+tunderera
+Moi
+ShoTGuNGuY49
+calle7113
+Patrik "DoktorAce" Liljecratz
+Sven co-op 2 team
+CosmicBreak
+CyberStep, Inc.
+Animasa
+Team Ruchiru
+Master circuit
+chiyoki
+Sam Za Nemesis
+M4xf1v3
+Renard
+SHL Team
+VALVe
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : breen_hd
+Source Model Hash : 33eb5529a324cb84623e3f8ec226fb2e
+Source Model Date : 1465592862 (2016/06/10)
+
+Ported Model Name : breen_hd_v1sc
+Ported Model Hash : 652091ab6b16befdc8daa69805098cbb
+Ported Model Date : 1752491447 (2025/07/14)

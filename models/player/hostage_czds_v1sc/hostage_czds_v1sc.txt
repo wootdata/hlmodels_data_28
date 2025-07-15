@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hostage_czds
+Source Model Hash : b4ea0a4481e22428d15d45a2671a28fb
+Source Model Date : 1264200448 (2010/01/22)
+
+Ported Model Name : hostage_czds_v1sc
+Ported Model Hash : b6e30fadac5b2f214fe734138a206286
+Ported Model Date : 1752491830 (2025/07/14)

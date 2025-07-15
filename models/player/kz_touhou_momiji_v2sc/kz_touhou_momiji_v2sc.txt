@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kz_touhou_momiji_v2
+Source Model Hash : b6eadff42fe6372923c712e1aedbbb50
+Source Model Date : 1582157837 (2020/02/19)
+
+Ported Model Name : kz_touhou_momiji_v2sc
+Ported Model Hash : 6c56e3fca95c9159c63a20c90339ee8a
+Ported Model Date : 1752491933 (2025/07/14)

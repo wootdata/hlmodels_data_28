@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mia
+Source Model Hash : aa3cf31e5f32c0803496caccf73abf95
+Source Model Date : 1266245527 (2010/02/15)
+
+Ported Model Name : mia_v1sc
+Ported Model Hash : c76cb8248cecef03001c8dc6ccf5136c
+Ported Model Date : 1752492014 (2025/07/14)

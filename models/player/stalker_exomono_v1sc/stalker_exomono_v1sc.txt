@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stalker_exomono
+Source Model Hash : d1316423f21c8315b48932da3a486308
+Source Model Date : 1230404100 (2008/12/27)
+
+Ported Model Name : stalker_exomono_v1sc
+Ported Model Hash : 04d731cfd6c2ffb7fcb7b04d3da8d54c
+Ported Model Date : 1752492331 (2025/07/14)

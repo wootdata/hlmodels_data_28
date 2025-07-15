@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pw_npc22f
+Source Model Hash : 1e97b5640b7bb0079ee65f9653a1249e
+Source Model Date : 1472477792 (2016/08/29)
+
+Ported Model Name : pw_npc22f_v1sc
+Ported Model Hash : 5d73f03aa183fd9e89b63ae66650d3e7
+Ported Model Date : 1752492174 (2025/07/14)

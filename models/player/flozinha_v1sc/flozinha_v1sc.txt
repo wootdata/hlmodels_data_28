@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : flozinha
+Source Model Hash : 03032be1666ffee53dd4c3d1cbc3b192
+Source Model Date : 1339012150 (2012/06/06)
+
+Ported Model Name : flozinha_v1sc
+Ported Model Hash : f0fa2264280c303550c1a2788085a690
+Ported Model Date : 1752491653 (2025/07/14)

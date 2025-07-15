@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : knives2
+Source Model Hash : 02663a8315e42a29678ad0f7ac18881c
+Source Model Date : 1375627414 (2013/08/04)
+
+Ported Model Name : knives2_v1sc
+Ported Model Hash : f927b91337a6751f5fe338a40526feda
+Ported Model Date : 1752491904 (2025/07/14)

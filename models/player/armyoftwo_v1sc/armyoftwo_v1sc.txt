@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : armyoftwo
+Source Model Hash : de8a4473d6b34d22fc61373d29ba58eb
+Source Model Date : 1425906918 (2015/03/09)
+
+Ported Model Name : armyoftwo_v1sc
+Ported Model Hash : f3479305b702f8f71b3ae17d50e5d4cd
+Ported Model Date : 1752491377 (2025/07/14)

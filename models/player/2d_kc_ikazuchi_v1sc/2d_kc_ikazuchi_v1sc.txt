@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_kc_ikazuchi
+Source Model Hash : 6e37568ca472c53940cb0ef3c512624d
+Source Model Date : 1542476752 (2018/11/17)
+
+Ported Model Name : 2d_kc_ikazuchi_v1sc
+Ported Model Hash : fc450218b3fcad00b58b862734f3569c
+Ported Model Date : 1752491313 (2025/07/14)

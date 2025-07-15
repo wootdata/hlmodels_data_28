@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : satoshi
+Source Model Hash : b9b46f9d6dfdaaf9e9d88ec8a2b1be2a
+Source Model Date : 1269694231 (2010/03/27)
+
+Ported Model Name : satoshi_v1sc
+Ported Model Hash : 3e3787408da048eb29483cdd0db51102
+Ported Model Date : 1752492238 (2025/07/14)

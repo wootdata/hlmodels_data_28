@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ba_wakamo_b4
+Source Model Hash : 16fee5d95e89e062ea3f54b513f32917
+Source Model Date : 1723724024 (2024/08/15)
+
+Ported Model Name : ba_wakamo_b4_v1sc
+Ported Model Hash : a8d9146dfbc9d237034054bd95dd5d17
+Ported Model Date : 1752491419 (2025/07/14)

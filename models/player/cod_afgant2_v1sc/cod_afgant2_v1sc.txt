@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cod_afgant2
+Source Model Hash : d978b4e767bbce5678dfcfcbffdae80d
+Source Model Date : 1478032264 (2016/11/01)
+
+Ported Model Name : cod_afgant2_v1sc
+Ported Model Hash : 90b952ec7220c49b7a53234c9d9a87ca
+Ported Model Date : 1752491494 (2025/07/14)

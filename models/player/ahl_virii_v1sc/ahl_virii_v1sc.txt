@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ahl_virii
+Source Model Hash : aed9e40b653d80d7ecee473a9fed8ad2
+Source Model Date : 1694641862 (2023/09/13)
+
+Ported Model Name : ahl_virii_v1sc
+Ported Model Hash : 4801575f7b731ae819dc22ddd1d1b9f9
+Ported Model Date : 1752491345 (2025/07/14)

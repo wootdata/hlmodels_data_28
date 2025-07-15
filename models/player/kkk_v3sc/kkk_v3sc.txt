@@ -1,0 +1,26 @@
+https://discord.gg/PEz2gk
+
+Discord: mine master#1488
+
+AIM PHOENIX NAME:minemaster
+
+https://www.moddb.com/mods/sven-co-op/addons/low-def-classic-pack-alpha-hl-pack
+
+Steam: https://steamcommunity.com/id/YOU_GOT_MINE/
+
+Mine's website: networld.club
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kkk_v3
+Source Model Hash : 0000d52dcaa1d8c5a6945764976946f2
+Source Model Date : 1587281262 (2020/04/19)
+
+Ported Model Name : kkk_v3sc
+Ported Model Hash : 029156f433c6d0f9e5d3c0a6053ca1f5
+Ported Model Date : 1752491895 (2025/07/14)

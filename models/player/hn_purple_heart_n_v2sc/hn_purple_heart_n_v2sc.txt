@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hn_purple_heart_n_v2
+Source Model Hash : 0fed5ce02dcacb4127d2f75b4da43930
+Source Model Date : 1563798008 (2019/07/22)
+
+Ported Model Name : hn_purple_heart_n_v2sc
+Ported Model Hash : 342d0ae898971fdfffe30f38a6de5708
+Ported Model Date : 1752491809 (2025/07/14)

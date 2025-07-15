@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shimakaze
+Source Model Hash : 6a5dd71f245f3d34d4b13f2902616ca7
+Source Model Date : 1703615988 (2023/12/26)
+
+Ported Model Name : shimakaze_v1sc
+Ported Model Hash : e127510df850f9cc62bd018250588d5a
+Ported Model Date : 1752492269 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2pic_v2
+Source Model Hash : b39798914507d8eae9671f567ccec7ff
+Source Model Date : 1591342603 (2020/06/05)
+
+Ported Model Name : 2pic_v2sc
+Ported Model Hash : d4e57e4f4a53beefaa6bd338aebfd79a
+Ported Model Date : 1752491321 (2025/07/14)

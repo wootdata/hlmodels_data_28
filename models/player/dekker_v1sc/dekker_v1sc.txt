@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dekker
+Source Model Hash : df61103ce5b1ebb43197c30f4f4842f3
+Source Model Date : 1266936596 (2010/02/23)
+
+Ported Model Name : dekker_v1sc
+Ported Model Hash : 98c02f221d7a77a6d662ed923d8db58c
+Ported Model Date : 1752491593 (2025/07/14)

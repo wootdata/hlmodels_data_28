@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jillre
+Source Model Hash : 8d60c5e2a788efd4b73df07904f917f9
+Source Model Date : 1332619656 (2012/03/24)
+
+Ported Model Name : jillre_v1sc
+Ported Model Hash : f8ec74af59bc560a1f71ba4eeb561ea6
+Ported Model Date : 1752491862 (2025/07/14)

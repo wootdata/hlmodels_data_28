@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cm3d2_cowgirl
+Source Model Hash : 06463c5545ebd83bedf987892a97e6e0
+Source Model Date : 1641718723 (2022/01/09)
+
+Ported Model Name : cm3d2_cowgirl_v1sc
+Ported Model Hash : 0bd2ff54d7eb54e315a84cbd5364769c
+Ported Model Date : 1752491488 (2025/07/14)

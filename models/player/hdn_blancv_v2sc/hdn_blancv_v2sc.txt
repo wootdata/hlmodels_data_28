@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hdn_blancv_v2
+Source Model Hash : 03f72919dd236d2c62ad41754f9a2932
+Source Model Date : 1630363121 (2021/08/30)
+
+Ported Model Name : hdn_blancv_v2sc
+Ported Model Hash : 3e4260a74dd96149306e6cb94f76ac48
+Ported Model Date : 1752491774 (2025/07/14)

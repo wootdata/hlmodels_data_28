@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : chalmers
+Source Model Hash : 8d00ed77db7790a93e289856072e724d
+Source Model Date : 1672763490 (2023/01/03)
+
+Ported Model Name : chalmers_v1sc
+Ported Model Hash : c522106a235ba277b901a6f495f172f3
+Ported Model Date : 1752491466 (2025/07/14)

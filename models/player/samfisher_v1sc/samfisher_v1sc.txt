@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : samfisher
+Source Model Hash : c0b4e90dc6b98583284c2b7ddc2ed96f
+Source Model Date : 1454246278 (2016/01/31)
+
+Ported Model Name : samfisher_v1sc
+Ported Model Hash : f1975453ac56f469f6847cf978a3fa44
+Ported Model Date : 1752492233 (2025/07/14)

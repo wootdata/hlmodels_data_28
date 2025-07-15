@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : carbon_v2
+Source Model Hash : ac1c8f5fc3cd8b50c6e4a183b8288b57
+Source Model Date : 1583820667 (2020/03/09)
+
+Ported Model Name : carbon_v2sc
+Ported Model Hash : 05fa3ba3be59f8b1b257eb47a89bf514
+Ported Model Date : 1752491462 (2025/07/14)

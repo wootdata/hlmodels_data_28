@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sa_smokevest
+Source Model Hash : 3d12f694755780fc4968b264d907fe48
+Source Model Date : 1480897332 (2016/12/04)
+
+Ported Model Name : sa_smokevest_v1sc
+Ported Model Hash : d9709d49072f49698ab0aede4905981d
+Ported Model Date : 1752492242 (2025/07/14)

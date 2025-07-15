@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_inaba_tewi2
+Source Model Hash : 2fa3840619f0a6e97b66dd245481c04c
+Source Model Date : 1522367532 (2018/03/29)
+
+Ported Model Name : 2hu_inaba_tewi2_v1sc
+Ported Model Hash : 7d33bf9c8118f448b0e2373664e70573
+Ported Model Date : 1752492439 (2025/07/14)

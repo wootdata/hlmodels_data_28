@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tdawg
+Source Model Hash : 2707d80338c2566c4490e0cc7355686b
+Source Model Date : 1267285787 (2010/02/27)
+
+Ported Model Name : tdawg_v1sc
+Ported Model Hash : 0f60498c75b6525995977404d740b1e2
+Ported Model Date : 1752492397 (2025/07/14)

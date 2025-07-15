@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bm_hgrunt_commander2
+Source Model Hash : 568167608336e814e92c987650c41d92
+Source Model Date : 1522912464 (2018/04/05)
+
+Ported Model Name : bm_hgrunt_cmdr2_v1sc
+Ported Model Hash : 5aa67cb86e152fb9d1ef184988793748
+Ported Model Date : 1752491440 (2025/07/14)

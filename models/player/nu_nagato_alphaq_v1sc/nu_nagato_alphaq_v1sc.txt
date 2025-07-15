@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nu_nagato_alphaq
+Source Model Hash : 981c44ae8896c7497ba340598e4e8c52
+Source Model Date : 1647312530 (2022/03/14)
+
+Ported Model Name : nu_nagato_alphaq_v1sc
+Ported Model Hash : 1e34157b6b04538288ddc352168c7ced
+Ported Model Date : 1752492106 (2025/07/14)

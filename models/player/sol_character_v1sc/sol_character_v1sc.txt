@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sol_character
+Source Model Hash : db9fe78ba6576647a42afdc2d972462e
+Source Model Date : 1472477792 (2016/08/29)
+
+Ported Model Name : sol_character_v1sc
+Ported Model Hash : 05376fcee65741c6b9007e891ac09d43
+Ported Model Date : 1752492294 (2025/07/14)

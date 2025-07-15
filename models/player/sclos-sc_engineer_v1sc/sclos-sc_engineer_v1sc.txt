@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sclos-sc_engineer
+Source Model Hash : cfdccc77293b1c843d54902dfacaecd8
+Source Model Date : 1538614801 (2018/10/03)
+
+Ported Model Name : sclos-sc_engineer_v1sc
+Ported Model Hash : 3d35ecaac60a791e474b8e2a57f7176a
+Ported Model Date : 1752492248 (2025/07/14)

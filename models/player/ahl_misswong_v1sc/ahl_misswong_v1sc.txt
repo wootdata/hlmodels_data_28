@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ahl_misswong
+Source Model Hash : 4dd12052659d9f91e7319be615970967
+Source Model Date : 1700906473 (2023/11/25)
+
+Ported Model Name : ahl_misswong_v1sc
+Ported Model Hash : e8f98a672b1638e6ecab65651d102c5a
+Ported Model Date : 1752491343 (2025/07/14)

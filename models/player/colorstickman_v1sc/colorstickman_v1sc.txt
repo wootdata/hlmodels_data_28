@@ -1,0 +1,16 @@
+任何埃及建议请加qq:272992860
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : colorstickman
+Source Model Hash : 6715669e75e8a4ac09021af69294d08c
+Source Model Date : 1256440514 (2009/10/24)
+
+Ported Model Name : colorstickman_v1sc
+Ported Model Hash : 76a1cfe864031ba5cf6198771eba7b8f
+Ported Model Date : 1752491506 (2025/07/14)

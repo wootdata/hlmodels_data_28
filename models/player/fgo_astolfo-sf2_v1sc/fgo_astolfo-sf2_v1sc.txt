@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fgo_astolfo-sf2
+Source Model Hash : 94cbe8b62a366d26ce9afeb2831e38d8
+Source Model Date : 1570416272 (2019/10/06)
+
+Ported Model Name : fgo_astolfo-sf2_v1sc
+Ported Model Hash : be0b037b1d28ca4f16b06c8f27ea53cc
+Ported Model Date : 1752491651 (2025/07/14)

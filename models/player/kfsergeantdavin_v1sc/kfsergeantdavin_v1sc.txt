@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kfsergeantdavin
+Source Model Hash : 7d65cc91f8a85c566b3424d63f725003
+Source Model Date : 1313824376 (2011/08/20)
+
+Ported Model Name : kfsergeantdavin_v1sc
+Ported Model Hash : 586f54fe4c74313eaf53c48d351eda8f
+Ported Model Date : 1752491882 (2025/07/14)

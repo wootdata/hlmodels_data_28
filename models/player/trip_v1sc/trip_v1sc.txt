@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : trip
+Source Model Hash : 09e44cd5eb20ddfaa0835be802126fbf
+Source Model Date : 1267714365 (2010/03/04)
+
+Ported Model Name : trip_v1sc
+Ported Model Hash : 5726c0889b6a011d736b325dca4461ed
+Ported Model Date : 1752492458 (2025/07/14)

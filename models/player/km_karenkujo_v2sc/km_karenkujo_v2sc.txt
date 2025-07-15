@@ -1,0 +1,17 @@
+Ported by snekky, remastered by Ryor
+have fun <3
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : km_karenkujo_v2
+Source Model Hash : 20f85c732982f18876315b21d88d62f8
+Source Model Date : 1751620212 (2025/07/04)
+
+Ported Model Name : km_karenkujo_v2sc
+Ported Model Hash : a9726c31f8f09dae1b5a9518c9475e77
+Ported Model Date : 1752491904 (2025/07/14)

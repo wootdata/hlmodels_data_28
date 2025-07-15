@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : somali_02
+Source Model Hash : 67e5d8385792c3b77924fa2225b4b269
+Source Model Date : 1230613372 (2008/12/29)
+
+Ported Model Name : somali_02_v1sc
+Ported Model Hash : 01f268657c5487c29492dcf58cb3dee9
+Ported Model Date : 1752492295 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : strelok900
+Source Model Hash : 4f378b3778740aba07bf058ad50127ff
+Source Model Date : 1245724438 (2009/06/22)
+
+Ported Model Name : strelok900_v1sc
+Ported Model Hash : ea336c1f655e6a8da90f200d7edd366e
+Ported Model Date : 1752492348 (2025/07/14)

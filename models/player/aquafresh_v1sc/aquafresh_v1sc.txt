@@ -1,0 +1,42 @@
+Finished 5/30/2000
+
+Hi, I'm Tobias Case and this is my first model.  The skeleton is gman,
+but because of the nature of a toothpaste tube, I had to make a lot of
+custom animations or simply edit existing ones.
+
+Vertices:  132
+Triangles: 262
+Groups: 1
+Materials: 1
+Joints: 40
+Skin: 1 of 256X256
+
+To install - Unzip file to your /models/player directory.
+
+Thanks to Valve, Chumbalum Soft's Milkshape 3D 1.3.1, Aqua Fresh Tartar
+Control Toothpaste, and my twin brother for letting me borrow his scanner.
+
+BeyondLight@excite.com
+
+Note:  In the Half-Life Model Viewer, the lower body of the model appears
+differently than in game for crouched animations.  This is due to
+Half-Life only reading the upper body for reference.  When making this
+model I found it unnecessary to redo the whole body for these animations,
+because it looks great in-game.
+
+BeyondLight
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aquafresh
+Source Model Hash : 79b0c65fb82f18f26e11e6a8f2ffbdb0
+Source Model Date : 1456808809 (2016/02/29)
+
+Ported Model Name : aquafresh_v1sc
+Ported Model Hash : 9adb50fd74f8f4e475c64f94dba5c835
+Ported Model Date : 1752491365 (2025/07/14)
