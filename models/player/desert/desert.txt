@@ -1,0 +1,6 @@
+Modelname:      Desert
+Skinname:       Desert Grunt 
+based on:       hgrunt
+made by:        (°)Kombat
+E-Mail:         Kombat@gmx.at
+Info:           err.., just made that destert-camoflage-guy because i like that camo type                   ... also note the cigarette pack on the helmet :)

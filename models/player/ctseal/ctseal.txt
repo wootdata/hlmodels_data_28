@@ -1,0 +1,46 @@
+3/5/2000 = version 0.95
+================================================================
+Model Name              : CTseal
+Game                    : Counterstrike (Halflife)
+installation directory  : sierra/halflife/cstrike/models/ (read notes)
+Author                  : NSi (http://www.artmaze.com/nsi)
+Skin Author             : NSi 
+Email Address           : nsi@artmaze.com
+
+Model description       : The model is a counter-terrorist Seal Team 6 unit, modeled after a few pictures of real SEALs in CT action. Usually they wear grey instead of green, but they do wear green sometimes, and it looks way cooler.
+
+
+Other info              : Attached mp5 model by CS team (Gooseman)
+
+Additional Credits to   : CS team for mp5 model and CS skeleton and anims
+
+Thanks to               : All the people that have emailed me with encouragement and congrats :)
+================================================================
+* Play Information *
+
+New Sounds              : <N/A>
+CTF Skins               : <N/A>
+VWEP Support            : <N/A>
+
+
+* Construction *
+Poly Count              : under 750 polys
+Skin Count              : 1 skin, 3 textures
+Base                    : New, original model
+Editor used             : 3DStudio Max R3, Milkshape, Photoshop
+Known Bugs              : no known issues
+Build/Animation time    : 2-3 weeks
+
+
+* How to use this model *
+
+First thing you have to do is go into your sierra/halflife/cstrike directory, and if they're not there already, create the following folders: "models", and inside that, create another one called "player". Inside "player", create one folder for each model you want to replace. The name of each folder must be exactly the name of the model you want to replace, and for counterstrike (as of beta 5.2) these are: "urban" (navy seal), "gsg9" (german gsg9), "sas" (british SAS), "terror" (camo terrorist) and "arab" (arab terrorist). Inside each folder you place the model you wish to use and name it the same as the folder plus the.mdl suffix. Also, you only need to create these folders for the models you want to replace.
+
+* Copyright / Permissions *
+
+This model should NOT be distributed in any kind of commercial compilation, product or package without my personal approval.
+This model CAN otherwise be distributed freely as long as this text file is included, unmodified, with the package.
+And PLEASE don't extract the skin and draw a mustache on it and release it to the world as yours, don't be lame.
+
+
+

@@ -1,0 +1,10 @@
+                         ParaTrooper
+
+A TFC Soldier colour change, Paratrooper
+Hope you like it! 
+   
+
+INSTALLATION:  UNZIP INTO  halflife\valve\models\player\Paratrooper  folder
+
+
+         FYA    MARQUIS   for  skins (m.haly@cwcom.net)  5/8/99

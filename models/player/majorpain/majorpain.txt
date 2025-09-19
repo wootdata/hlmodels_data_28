@@ -1,0 +1,15 @@
+Skinner: SlimReapeR
+Skin Name: Major Pain
+Model Used: Michigan by Evil Bastard
+
+
+
+Installation of Plugin
+
+Create a folder called majorpain in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+

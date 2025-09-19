@@ -1,0 +1,26 @@
+The pimp.mdl for Half-Life(TM). 
+Author: Ian (MudShark) G-W
+
+Info: 
+A pimpish looking guy made from out of the Scientist model.
+His lab jacket and glasses have been replaced (actually drawn over) by a pimpin sports jacket and a bitchen set of shades.
+And he has some pimp accessories (you'll see)! He is the first MLD I have ever made and I am proud of it! I hope to contiune a Half-Life pimp series 
+with diffrent looking pimps for riped Half-Life mlds! Hopfully a NEW CLAN WILL EMERGE TO MAKE EVERY ONE ELSE ITS NETWORK BITCHES!!!
+-I(MUDSHARK)G-W.
+
+Editor(s) Used: the MDLV2(TM) model veiwer/editor
+and Microsoft Paintbrush (TM) for the Bitmap editing. 
+
+Time: Ooo, about 2 days or so.
+
+Installation: 
+Standered model insersion. Go to your C:\half-life\valve\model folder and create a new folder and name it "pimp".
+Then unzip the .mld and the .bmp files in the "pimp" folder and go to the Half-Life payer custom option in the game.
+There you'll see his wardrobe to customise and then yer off (I have yet to get his full pimpin self a pic). 
+HAVE FUN AND PIMP ON!!!
+
+Bugs:
+God I hope not! There could be, but no life threating ones! If there is (serious ones) delete it. 
+
+LEGAL CRAP: Half-Life is a copywrite of Serria, 1998! What ever is a copywrite is justfully owned by their copywrites! 
+PLEASE DON"T SUE! PLEASE DON"T SUE! PLEASE DON"T SUE!
