@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shotghecu
+Source Model Hash : 640453421e6c582c6d69dc96aa17de9a
+Source Model Date : 1772859797 (2026/03/06)
+
+Ported Model Name : shotghecu_v1sc
+Ported Model Hash : 5bb261c5610298d35b0999ad2a43a5a3
+Ported Model Date : 1780823047 (2026/06/07)

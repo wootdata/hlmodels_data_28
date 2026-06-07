@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re_zero_subaru
+Source Model Hash : d94eb3cda5901b22134c1df37898d7fa
+Source Model Date : 1775762270 (2026/04/09)
+
+Ported Model Name : re_zero_subaru_v1sc
+Ported Model Hash : 72e99ec1ba12948c50fec2c1fa05bdb8
+Ported Model Date : 1780823047 (2026/06/07)
